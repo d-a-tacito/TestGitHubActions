@@ -8,7 +8,7 @@ public class TestCalculator
     @Test
     void addition()
     {
-        assertEquals(1, calculator.add(1,1));
+        assertEquals(2, calculator.add(1,1));
     }
     @Test
     void subtraction()
